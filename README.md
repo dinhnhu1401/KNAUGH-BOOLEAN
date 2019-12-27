@@ -1,4 +1,4 @@
-# PHẦN 1: Thiết lập bảng chân trị
+# PHẦN 1: Bieu thuc dai so BOOLEAN
 
 
 ### Dùng thuật toán Queen - McCluskey

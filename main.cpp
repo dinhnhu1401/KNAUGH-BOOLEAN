@@ -1,6 +1,5 @@
 /*
-* THUC HANH TOAN ROI RAC : DAI SO BOOLEAN
-* DEADLINE: 23h59 Fri, 10, May, 2019
+
 * Compile and execute by terminal: 
 	+ Using: g++ [file .cpp] [option] [executed file]
 	+ After that, executes this file.
